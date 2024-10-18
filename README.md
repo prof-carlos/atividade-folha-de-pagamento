@@ -55,14 +55,8 @@ Desconto fixo de R$ 150,00 por dependente.
 - **Dependentes:** 0
 - **Vale Transporte:** Sim
 - **Vale Refeição:** R$ 300,00
-
-#### Cálculo:
-1. **Desconto INSS:** 7,5% de R$ 1.412,00 = R$ 105,90
-2. **Desconto Vale Transporte:** 6% de R$ 1.412,00 = R$ 84,72
-3. **Desconto Vale Refeição:** 20% de R$ 300,00 = R$ 60,00
-4. **Salário Bruto:** R$ 1.412,00
-5. **Total de Descontos:** R$ 105,90 + R$ 84,72 + R$ 60,00 = R$ 250,62
-6. **Salário Líquido:** R$ 1.412,00 - R$ 250,62 = R$ 1.161,38
+  
+**Salário Líquido:** R$ 1.161,38
 
 ### Exemplo 2: Salário Alto (R$ 10.000,00) com 2 Dependentes e Sem Vale Transporte
 
@@ -70,13 +64,5 @@ Desconto fixo de R$ 150,00 por dependente.
 - **Dependentes:** 2
 - **Vale Transporte:** Não
 - **Vale Refeição:** R$ 500,00
-
-#### Cálculo:
-1. **Desconto INSS:** 14% de R$ 6.433,57 (teto) = R$ 854,36
-2. **Desconto IRRF:** 
-   - Base de Cálculo: R$ 10.000,00 - R$ 189,59 * 2 = R$ 9.620,82
-   - Faixa: 27,5%
-   - IRRF: 27,5% de R$ 9.620,82 = R$ 2.644,72
-3. **Desconto Vale Refeição:** 20% de R$ 500,00 = R$ 100,00
-4. **Total de Descontos:** R$ 854,36 + R$ 2.644,72 + R$ 100,00 = R$ 3.599,08
-5. **Salário Líquido:** R$ 10.000,00 - R$ 3.599,08 = R$ 6.400,92
+  
+**Salário Líquido:** R$ 6.400,92
