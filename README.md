@@ -1,4 +1,3 @@
-```markdown
 # Atividade: Sistema de Folha de Pagamento
 
 ## Contexto
@@ -81,4 +80,3 @@ Desconto fixo de R$ 150,00 por dependente.
 3. **Desconto Vale Refeição:** 20% de R$ 500,00 = R$ 100,00
 4. **Total de Descontos:** R$ 854,36 + R$ 2.644,72 + R$ 100,00 = R$ 3.599,08
 5. **Salário Líquido:** R$ 10.000,00 - R$ 3.599,08 = R$ 6.400,92
-```
