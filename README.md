@@ -74,4 +74,4 @@ Desconto fixo de R$ 150,00 por dependente.
 * Vale Transporte: Não
 * Vale Refeição: R$ 800,00
   
-**Salário Líquido: R$ 6712,69**
+**Salário Líquido: R$ 6.118,13**
