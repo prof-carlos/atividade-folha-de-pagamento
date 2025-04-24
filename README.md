@@ -64,6 +64,7 @@ Desconto fixo de R$ 150,00 por dependente.
 * Dependentes: 0
 * Vale Transporte: Sim
 * Vale Refeição: R$ 500,00
+  
 **Salário Líquido: R$ 1190,30**
 
 #### Exemplo 2: Salário Alto (R$ 10.000,00) com 2 Dependentes e Sem Vale Transporte
@@ -72,4 +73,5 @@ Desconto fixo de R$ 150,00 por dependente.
 * Dependentes: 2
 * Vale Transporte: Não
 * Vale Refeição: R$ 800,00
+  
 **Salário Líquido: R$ 6712,69**
