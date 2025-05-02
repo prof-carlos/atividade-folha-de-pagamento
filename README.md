@@ -72,8 +72,6 @@ Desconto fixo de R$ 150,00 por dependente — aplicado somente ao dependente, n�
 ---
 
 ## Observações
-
-* Considere que o funcionário possui apenas um dependente.
 * Considere que o salário base é o salário antes de quaisquer descontos ou acréscimos.
 * Considere que o salário base, o vale refeição e o plano de saúde são informados em reais (R$).
 
