@@ -2,7 +2,7 @@
 
 ### Contexto
 
-Você faz parte de um time de desenvolvimento de software responsável por criar um sistema para calcular os descontos e acréscimos na folha de pagamento dos funcionários de uma empresa. Seu objetivo é criar um programa em Python que solicite a matrícula e senha de um funcionário para ter acesso aos seus dados e calcular os descontos e acréscimos mais comuns no Brasil.
+Você faz parte de um time de desenvolvimento de software responsável por criar um sistema para calcular os descontos e acréscimos na folha de pagamento dos funcionários de uma empresa. Seu objetivo é criar um programa em Python que solicite a matrícula e senha de um funcionário para ter acesso aos seus dados e calcular os descontos e acréscimos mais comuns no Brasil usando funções.
 
 ---
 
