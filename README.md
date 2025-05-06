@@ -81,8 +81,8 @@ Desconto fixo de R$ 150,00 por dependente — aplicado somente ao dependente, n�
 
 | Exemplo | Salário Base | Dependentes | Vale Transporte | Vale Refeição | Salário Líquido |
 |---------|--------------|-------------|------------------|----------------|------------------|
-| 1       | R$ 1.518,00  | 0           | Sim              | R$ 500,00      | R$ 1.190,30      |
-| 2       | R$ 10.000,00 | 2           | Não              | R$ 800,00      | R$ 6.118,13      |**
+| 1       | R$ 1.518,00  | 0           | Sim              | R$ 500,00      | R$ 1.213,07      |
+| 2       | R$ 10.000,00 | 2           | Não              | R$ 800,00      | R$ 6.962,30      |**
 
 
 Bom desenvolvimento!
